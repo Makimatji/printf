@@ -78,3 +78,7 @@ R : prints the rot13'ed string
 All the above options work well together.
 edited
 
+
+authors 
+karabo Nonyane - karabononyane99@gmail.com
+Maki mohlatlole - dmmatji@gmail.com
